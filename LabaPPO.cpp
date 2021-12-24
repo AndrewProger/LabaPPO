@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << "Privet, Mir!\n";
+    cout << "Privet, Mir!!!\n";
 }
